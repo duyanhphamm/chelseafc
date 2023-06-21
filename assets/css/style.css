@@ -815,9 +815,14 @@ li a:hover::before {
     font-size: 20px;
 }
 
+.footer-icon a {
+    text-decoration: none;
+}
+
 .footer-icon i {
     padding: 0 8px;
     font-weight: 600;
+    color: #fff;
 }
 
 .footer-icon i:hover {
